@@ -1,0 +1,18 @@
+Quiz Starting... (Type answer and press Enter)
+Who is our DEAN? Dr. Pankaj Aggarwal
+Correct!
+------------------------------
+Our College name (short form)? KRMU
+Correct!
+------------------------------
+What is 5 + 7? 12
+Correct!
+------------------------------
+Who is the best faculty of web dev? Vishal Sir
+Correct!
+------------------------------
+Which language is used for web development? JavaScript
+Correct!
+------------------------------
+------------------------------
+Game Over! Final Score: 5 / 5
